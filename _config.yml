@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chongxiao Cao / Site Title"
+title                    : "Chongxiao Cao"
 title_separator          : "-"
 name                     : &name "Chongxiao Cao"
 description              : &description "HPC Enthusiast"
@@ -65,7 +65,7 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Austin, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=seRtNuQAAAAJ&hl=en"
   email            :
@@ -81,7 +81,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/shawnccx"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
