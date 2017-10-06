@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Chongxiao Cao"
 title_separator          : "-"
-name                     : &name "Chongxiao Cao"
-description              : &description "HPC Enthusiast"
+name                     : "Chongxiao Cao"
+description              : "HPC Enthusiast"
 url                      : https://shawnccx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/shawnccx/shawnccx.github.io"
@@ -62,9 +62,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Chongxiao, Ph.D"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "HPC Enthusiast, Software Engineer, Ph.D in Computer Science"
   location         : "Austin, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=seRtNuQAAAAJ&hl=en"
