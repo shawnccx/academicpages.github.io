@@ -5,8 +5,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
----
 Hi! I'm Chongxiao "Shawn", a High Performance Computing enthusiast. Since 2011, I've been actively invovled into development multiple open source HPC libaries, ranging from
 numerical computational library on GPU, task-based runtime library for distributed heterogeneous platform and high performance commmunication library for parallel computers.
 
