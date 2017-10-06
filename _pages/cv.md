@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.E. in Automation Engineering, Xi'an Jiaotong University, 2008
+* M.E. in System Engineering, Xi'an Jiaotong University, 2011
+* Ph.D in Computer Science, University of Tennessee Knoxville, 2017
+  * Advisor: [Dr. Jack Dongarra](ihttp://www.netlib.org/utk/people/JackDongarra/)
+  * Doctoral Dissertation: [Extensions of Task-based Runtime for High Performance Dense Linear Algebra Applications](http://trace.tennessee.edu/utk_graddiss/4448/)
 
 Work experience
 ======
@@ -26,7 +28,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -41,19 +43,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
