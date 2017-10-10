@@ -14,29 +14,30 @@ Education
 * B.E. in Automation Engineering, Xi'an Jiaotong University, 2008
 * M.E. in System Engineering, Xi'an Jiaotong University, 2011
 * Ph.D in Computer Science, University of Tennessee Knoxville, 2017
-  * Advisor: [Dr. Jack Dongarra](ihttp://www.netlib.org/utk/people/JackDongarra/)
+  * Advisor: [Dr. Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/)
   * Doctoral Dissertation: [Extensions of Task-based Runtime for High Performance Dense Linear Algebra Applications](http://trace.tennessee.edu/utk_graddiss/4448/)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2017 to present: Software Engineer
+  * Intel Corporation
+  * Austin, TX
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2013 to August 2013: System Research Intern
+  * Samsung Research America
+  * San Jose, CA
+  * Supervisor: [Dr. Fengguang Song](http://cs.iupui.edu/~fgsong/)
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages:
+  * C/C++
+  * Python
+  * Java
+* Parallel computing skills:
+  * MPI
+  * CUDA/OpenCL
+  * OpenMP
 
 Publications
 ======
@@ -44,18 +45,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
