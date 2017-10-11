@@ -48,11 +48,28 @@ Skills
 * Parallel computing skills:
   * MPI
   * CUDA/OpenCL
+  * Pthread
   * OpenMP
 
-Publications
+Selected Publications (Please refer [google scholar](https://scholar.google.com/citations?user=seRtNuQAAAAJ&hl=en) page for full publication list)
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Design for a Soft Error Resilient Dynamic Task-based Runtime](http://ieeexplore.ieee.org/abstract/document/7161563/)
+  * C Cao, T Herault, G Bosilca, J Dongarra
+  * Parallel and Distributed Processing Symposium (IPDPS), 2015 IEEE International
+
+* [Flexible linear algebra development and scheduling with cholesky factorization](http://ieeexplore.ieee.org/abstract/document/7336271/)
+  * A Haidar, A YarKhan, C Cao, P Luszczek, S Tomov, J Dongarra
+  * High Performance Computing and Communications (HPCC), 2015
+
+* [Unified Development for Mixed Multi-GPU and Multi-coprocessor Environments Using a Lightweight Runtime Environment](http://ieeexplore.ieee.org/abstract/document/6877282/)
+  * A Haidar, C Cao, A YarKhan, P Luszczek, S Tomov, K Kabir, J Dongarra
+  * Parallel and Distributed Processing Symposium (IPDPS), 2014 IEEE International
+
+* [Performance and portability with OpenCL for throughput-oriented HPC workloads across accelerators, coprocessors, and multicore processors](http://ieeexplore.ieee.org/abstract/document/7016735/)
+  * C Cao, M Gates, A Haidar, P Luszczek, S Tomov, I Yamazaki
+  * 5th workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA), 2014
+
+* [clMAGMA: High performance dense linear algebra with OpenCL](https://dl.acm.org/citation.cfm?id=2664667)
+  * C Cao, J Dongarra, P Du, M Gates, P Luszczek, S Tomov
+  * 1st International Workshop on OpenCL (IWOCL), 2013
 
