@@ -51,8 +51,10 @@ Skills
   * Pthread
   * OpenMP
 
-Selected Publications (Please refer [google scholar](https://scholar.google.com/citations?user=seRtNuQAAAAJ&hl=en) page for full publication list)
+Selected Publications
 ======
+(Please refer [google scholar](https://scholar.google.com/citations?user=seRtNuQAAAAJ&hl=en) page for full publication list)
+
 * [Design for a Soft Error Resilient Dynamic Task-based Runtime](http://ieeexplore.ieee.org/abstract/document/7161563/)
   * C Cao, T Herault, G Bosilca, J Dongarra
   * Parallel and Distributed Processing Symposium (IPDPS), 2015 IEEE International
