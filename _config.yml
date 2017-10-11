@@ -63,7 +63,7 @@ analytics:
 # Site Author
 author:
   name             : "Chongxiao Cao, Ph.D"
-  avatar           : "profile.png"
+  avatar           : "images/bio_cao.jpg"
   bio              : "HPC Enthusiast, Software Engineer, Ph.D in Computer Science"
   location         : "Austin, TX"
   employer         : "Intel"
